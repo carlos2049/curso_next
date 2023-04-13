@@ -5,7 +5,8 @@
     "paths": {
       "@database": [
         "database/db.ts"
-      ]
+      ],
+      "@components/*": ["components/*"]
     },
     "lib": [
       "dom",
